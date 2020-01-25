@@ -4,7 +4,6 @@
 #
 %define		pdir	Devel
 %define		pnam	REPL
-%include	/usr/lib/rpm/macros.perl
 Summary:	Devel::REPL - a modern perl interactive shell
 Name:		perl-Devel-REPL
 Version:	1.003012
