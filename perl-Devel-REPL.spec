@@ -7,7 +7,7 @@
 Summary:	Devel::REPL - a modern perl interactive shell
 Name:		perl-Devel-REPL
 Version:	1.003012
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Devel/%{pdir}-%{pnam}-%{version}.tar.gz
